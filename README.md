@@ -1,5 +1,5 @@
 # Quick start with Python Flask Framework
-Basic curd RESTful API with FLask
+Basic curd RESTful API with Flask
 ### Setting environments
 ```sh
 $ mkdir flaskapp
