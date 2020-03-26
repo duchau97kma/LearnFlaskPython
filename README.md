@@ -24,7 +24,7 @@ $ postgres=# create database testdb;
 $ postgres=# create user winter  with password '12345';
 $ postgres=# GRANT ALL PRIVILEGES ON DATABASE testdb to winter;
 ```
-### Run test
+### Run 
 Before you can do that you need to tell your terminal the application to work with by exporting the FLASK_APP environment variable
 
 ```sh
