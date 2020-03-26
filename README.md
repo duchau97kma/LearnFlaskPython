@@ -6,7 +6,7 @@ $ mkdir flaskapp
 $ python3 -m venv flaskapp
 $ cd flaskapp
 $ source bin/activate
-$ git clone lhttps://github.com/duchau97kma/LearnFlaskPython.git repo
+$ git clone https://github.com/duchau97kma/LearnFlaskPython.git repo
 $ cd repo
 ```
 ### Install
