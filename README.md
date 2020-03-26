@@ -28,6 +28,7 @@ $ postgres=# GRANT ALL PRIVILEGES ON DATABASE testdb to winter;
 Before you can do that you need to tell your terminal the application to work with by exporting the FLASK_APP environment variable
 
 ```sh
+$ export FLASK_APP=main.py
 $ flask run
 ```
 ### Migrate Model to Database
